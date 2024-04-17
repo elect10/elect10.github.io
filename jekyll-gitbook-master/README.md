@@ -1,12 +1,24 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: opensource software week7
 permalink: /
 ---
 
 Make Jelly site have a GitBook look!
 
-## Demo
+## OPENSOURECE WEEK7
+
+
+
+
+오소실 week7 입니다
+
+
+
+
+
+
+
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
